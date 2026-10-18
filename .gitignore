@@ -1,5 +1,3 @@
 node_modules/
 
 crispy/temp
-.wrangler/
-worker-configuration.d.ts

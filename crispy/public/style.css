@@ -33,22 +33,6 @@ header h1 {
     color: #fff;
 }
 
-.site-logo {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    text-decoration: none;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 800;
-    font-size: 1.5rem;
-    color: #fff;
-    letter-spacing: 0.05em;
-}
-
-.site-logo svg {
-    color: #ff6b6b;
-}
-
 .ai-controls {
     display: flex;
     gap: 10px;
