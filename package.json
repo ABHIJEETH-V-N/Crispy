@@ -1,0 +1,13 @@
+{
+  "name": "crispy-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix crispy start",
+    "dev:worker": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.109.0"
+  }
+}
