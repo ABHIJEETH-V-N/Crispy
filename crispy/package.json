@@ -4,13 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "dev:worker": "wrangler dev",
-    "deploy": "wrangler deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "devDependencies": {
-    "wrangler": "^3.109.0"
   },
   "keywords": [],
   "author": "",
@@ -25,9 +19,5 @@
     "openai": "^7.5.0",
     "puppeteer": "^25.8.0",
     "uuid": "^14.0.2"
-  },
-  "allowScripts": {
-    "ffmpeg-static@5.3.0": true,
-    "puppeteer@25.8.0": true
   }
 }
